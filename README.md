@@ -1,2 +1,2 @@
-# Tennis_Game
+# Tennis Game
 Simple Tennis Game
